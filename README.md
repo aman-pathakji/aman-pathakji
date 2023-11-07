@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React and Nodejs**
 
-- 💬 Ask me about **React, Javascript, html,css,c,cpp**
+- 💬 Ask me about **, Javascript, html,css,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
