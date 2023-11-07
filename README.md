@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **E-commerce**
 
-- 🌱 I’m currently learning **React and Nodejs**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **, Javascript, html,css,**
 
